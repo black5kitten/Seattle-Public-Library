@@ -78,7 +78,7 @@ Multi-dimensional analysis linking inventory characteristics (item type, collect
 User behavior profiling by hour, day of week, and month to optimize staffing and collection management.
 ​
 ### Screenshot
-Example: [Dashboard Preview](https://github.com/black5kitten/Seattle-Public-Library/blob/main/seattle_library.png)
+Example: ![Dashboard Preview](https://github.com/black5kitten/Seattle-Public-Library/blob/main/seattle_library.png)
 
 Author: Akancha Kesarwani
 
